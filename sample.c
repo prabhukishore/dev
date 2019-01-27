@@ -1,5 +1,6 @@
-void main()
+void class()
 {
-printf(""hello world);
-printf("good day");
+........
+print(hi.....)
+
 }
